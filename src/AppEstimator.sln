@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Common", "AppEstimator.Common\AppEstimator.Common.csproj", "{0F684B9D-38FB-4865-8985-68E9F294BD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Data", "AppEstimator.Data\AppEstimator.Data.csproj", "{5FF4CE76-42DF-46D1-AA8E-A33513D575F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Data.SqlServer", "AppEstimator.Data.SqlServer\AppEstimator.Data.SqlServer.csproj", "{8E3C4747-B412-4E3C-8312-02F68F86B1BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Web.Api.Models", "AppEstimator.Web.Api.Models\AppEstimator.Web.Api.Models.csproj", "{051FE8FB-5ADD-4CDE-B427-6E894F7B7B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Web.Common", "AppEstimator.Web.Common\AppEstimator.Web.Common.csproj", "{212F729E-2559-4009-963B-E0B655D9F879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Web.Api", "AppEstimator.Web.Api\AppEstimator.Web.Api.csproj", "{15796B98-96BC-4851-9191-92F7207CDD3A}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AppEstimatorDb", "AppEstimatorDb\AppEstimatorDb.sqlproj", "{6F9C7064-C8B1-4993-B66A-0092D0F05687}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{CFE20609-4B6B-4673-80A0-52F7718F7035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Common.Tests", "AppEstimator.Common.Tests\AppEstimator.Common.Tests.csproj", "{6562D626-209A-420E-A811-892A83E1ED0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Data.SqlServer.IntegrationTests", "AppEstimator.Data.SqlServer.IntegrationTests\AppEstimator.Data.SqlServer.IntegrationTests.csproj", "{EF379DE6-4C87-4E40-83C9-3B63839AC759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Data.Tests", "AppEstimator.Data.Tests\AppEstimator.Data.Tests.csproj", "{FA3B1BD0-2210-4B0D-8284-01ABDFDA66AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Web.Api.IntegrationTests", "AppEstimator.Web.Api.IntegrationTests\AppEstimator.Web.Api.IntegrationTests.csproj", "{64CD1BA5-B2B3-472D-BA2F-A3A2D67DB9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Web.Api.Tests", "AppEstimator.Web.Api.Tests\AppEstimator.Web.Api.Tests.csproj", "{007E7C96-4CC6-4DEA-9DB3-2534BDA98DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstimator.Web.Common.Tests", "AppEstimator.Web.Common.Tests\AppEstimator.Web.Common.Tests.csproj", "{6895682D-5F0F-4748-B6FC-23DB789866B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F684B9D-38FB-4865-8985-68E9F294BD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F684B9D-38FB-4865-8985-68E9F294BD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F684B9D-38FB-4865-8985-68E9F294BD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F684B9D-38FB-4865-8985-68E9F294BD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF4CE76-42DF-46D1-AA8E-A33513D575F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF4CE76-42DF-46D1-AA8E-A33513D575F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF4CE76-42DF-46D1-AA8E-A33513D575F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF4CE76-42DF-46D1-AA8E-A33513D575F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3C4747-B412-4E3C-8312-02F68F86B1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3C4747-B412-4E3C-8312-02F68F86B1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3C4747-B412-4E3C-8312-02F68F86B1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3C4747-B412-4E3C-8312-02F68F86B1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051FE8FB-5ADD-4CDE-B427-6E894F7B7B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051FE8FB-5ADD-4CDE-B427-6E894F7B7B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051FE8FB-5ADD-4CDE-B427-6E894F7B7B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051FE8FB-5ADD-4CDE-B427-6E894F7B7B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212F729E-2559-4009-963B-E0B655D9F879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212F729E-2559-4009-963B-E0B655D9F879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212F729E-2559-4009-963B-E0B655D9F879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212F729E-2559-4009-963B-E0B655D9F879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15796B98-96BC-4851-9191-92F7207CDD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15796B98-96BC-4851-9191-92F7207CDD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15796B98-96BC-4851-9191-92F7207CDD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15796B98-96BC-4851-9191-92F7207CDD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9C7064-C8B1-4993-B66A-0092D0F05687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9C7064-C8B1-4993-B66A-0092D0F05687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9C7064-C8B1-4993-B66A-0092D0F05687}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F9C7064-C8B1-4993-B66A-0092D0F05687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9C7064-C8B1-4993-B66A-0092D0F05687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9C7064-C8B1-4993-B66A-0092D0F05687}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6562D626-209A-420E-A811-892A83E1ED0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6562D626-209A-420E-A811-892A83E1ED0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6562D626-209A-420E-A811-892A83E1ED0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6562D626-209A-420E-A811-892A83E1ED0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF379DE6-4C87-4E40-83C9-3B63839AC759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF379DE6-4C87-4E40-83C9-3B63839AC759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF379DE6-4C87-4E40-83C9-3B63839AC759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF379DE6-4C87-4E40-83C9-3B63839AC759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3B1BD0-2210-4B0D-8284-01ABDFDA66AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3B1BD0-2210-4B0D-8284-01ABDFDA66AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3B1BD0-2210-4B0D-8284-01ABDFDA66AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3B1BD0-2210-4B0D-8284-01ABDFDA66AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CD1BA5-B2B3-472D-BA2F-A3A2D67DB9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CD1BA5-B2B3-472D-BA2F-A3A2D67DB9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CD1BA5-B2B3-472D-BA2F-A3A2D67DB9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CD1BA5-B2B3-472D-BA2F-A3A2D67DB9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007E7C96-4CC6-4DEA-9DB3-2534BDA98DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007E7C96-4CC6-4DEA-9DB3-2534BDA98DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007E7C96-4CC6-4DEA-9DB3-2534BDA98DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007E7C96-4CC6-4DEA-9DB3-2534BDA98DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6895682D-5F0F-4748-B6FC-23DB789866B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6895682D-5F0F-4748-B6FC-23DB789866B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6895682D-5F0F-4748-B6FC-23DB789866B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6895682D-5F0F-4748-B6FC-23DB789866B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6562D626-209A-420E-A811-892A83E1ED0C} = {CFE20609-4B6B-4673-80A0-52F7718F7035}
+		{EF379DE6-4C87-4E40-83C9-3B63839AC759} = {CFE20609-4B6B-4673-80A0-52F7718F7035}
+		{FA3B1BD0-2210-4B0D-8284-01ABDFDA66AD} = {CFE20609-4B6B-4673-80A0-52F7718F7035}
+		{64CD1BA5-B2B3-472D-BA2F-A3A2D67DB9FC} = {CFE20609-4B6B-4673-80A0-52F7718F7035}
+		{007E7C96-4CC6-4DEA-9DB3-2534BDA98DD9} = {CFE20609-4B6B-4673-80A0-52F7718F7035}
+		{6895682D-5F0F-4748-B6FC-23DB789866B7} = {CFE20609-4B6B-4673-80A0-52F7718F7035}
+	EndGlobalSection
+EndGlobal

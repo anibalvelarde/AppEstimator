@@ -1,0 +1,8 @@
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Debug\AppEstimator.Common.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Debug\AppEstimator.Common.pdb
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Debug\AutoMapper.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Debug\log4net.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Debug\AutoMapper.xml
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Debug\log4net.xml
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\obj\Debug\AppEstimator.Common.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\obj\Debug\AppEstimator.Common.pdb

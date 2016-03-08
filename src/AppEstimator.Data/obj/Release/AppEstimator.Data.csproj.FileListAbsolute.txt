@@ -1,0 +1,5 @@
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Data\bin\Release\AppEstimator.Data.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Data\bin\Release\AppEstimator.Data.pdb
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Data\obj\Release\AppEstimator.Data.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Data\obj\Release\AppEstimator.Data.pdb
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Data\obj\Release\AppEstimator.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AppEstimatorDb-Web.config Connection String" description="AppEstimatorDb Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:anibalvelardedb.database.windows.net,1433;                            Database=AppEstimator;                            User ID=anibalvelardedb@anibalvelardedb;                            Password=pal151P@L;                            Encrypt=True;                            TrustServerCertificate=False;                            Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\AVELARDE\\Documents\\GitHub\\AppEstimator\\src\\AppEstimator\.Web\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AppEstimatorDb']/@connectionString" />
+  </parameter>
+</parameters>

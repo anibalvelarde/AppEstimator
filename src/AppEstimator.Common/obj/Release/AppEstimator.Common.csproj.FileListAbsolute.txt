@@ -1,0 +1,9 @@
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Release\AppEstimator.Common.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Release\AppEstimator.Common.pdb
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Release\AutoMapper.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Release\log4net.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Release\AutoMapper.xml
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\bin\Release\log4net.xml
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\obj\Release\AppEstimator.Common.csprojResolveAssemblyReference.cache
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\obj\Release\AppEstimator.Common.dll
+C:\Users\AVELARDE\Documents\GitHub\AppEstimator\src\AppEstimator.Common\obj\Release\AppEstimator.Common.pdb
