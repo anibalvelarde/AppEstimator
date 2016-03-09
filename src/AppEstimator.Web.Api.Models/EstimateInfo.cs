@@ -20,6 +20,8 @@ namespace AppEstimator.Web.Api.Models
 
         public long EstimateId { get; set; }
         public string ProjectName { get; set; }
+        public decimal Ucp { get; set; }
+        public decimal Effort { get; set; }
         public DateTime LastUpdatedOn { get; set;}
 
         public void AddLink(Link link)
